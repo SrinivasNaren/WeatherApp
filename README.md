@@ -98,6 +98,6 @@ WeatherApp/
 ## **Credits**
 
 * **Uday Bhasker** – Co-developer
-* **Srinivas Naren** – Co-developer
+* **Srinivas Naren** – Developer
 
 ---
